@@ -7,7 +7,7 @@
     "build": "babel src --out-dir dist"
   },
   "name": "react-native-split-styles",
-  "version": "0.0.1-alpha.0",
+  "version": "0.0.1-alpha.1",
   "description": "💅 Split StyleSheet keys into dedicated objects to help ease the routing of styles for nested components.",
   "main": "dist",
   "repository": "https://github.com/cawfree/react-native-split-styles",
